@@ -1,5 +1,6 @@
 # train_ssd_mobilenet_v2
 How to train a Custom Model for Object Detection 
+
 Step 1. Download the full TensorFlow object detection repository located at https://github.com/tensorflow/models
 
 Step 2. Download and extract SSD-MobileNet model you want to train in Tensorflow model zoo 
