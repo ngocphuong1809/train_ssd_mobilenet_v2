@@ -11,6 +11,8 @@ Step 3. Everything needed for trainning at folder models\research\object_detecti
   - train.record and test.record have been generated and are located in the \object_detection folder
   - labelmap.pbtxt file has been created and is located in the \object_detection\training folder
   - proto files in \object_detection\protos have been generated
+ 
+In my Repository, there are some folders and files you need add into folder models\research\object_detection 
   
   Copy file .config from the \object_detection\samples\configs folder to the \object_detection\training folder and make change
   - Change num_classes to the number of different objects you want the classifier to detect. 
